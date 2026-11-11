@@ -11,7 +11,7 @@ const CONFIG = {
     objeto: "Declaratoria de Emergencia Departamental por Variaciones Climáticas y Múltiples Eventos Adversos.",
     norma: "Ley N° 602 de Gestión de Riesgos y DS N° 2342, art. 63 (documentación de respaldo)"
   },
-  geojson: "data/municipios.geojson",
+  geojson: "municipios.geojson",
   csv_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTiWpvsrqSB4CVfC7UwSNcehZFfUbLmTWP8qYa9q_mjfoYJUCLuFk8suZR2MuoCZw/pub?gid=1622791938&single=true&output=csv",                               // enlace CSV publicado de Google Sheets (vacío = usa data/estado.csv)
-  csv_local: "data/estado.csv"
+  csv_local: "estado.csv"
 };
