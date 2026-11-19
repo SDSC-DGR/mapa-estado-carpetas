@@ -2,7 +2,7 @@
 const CONFIG = {
   titulo: "Municipios Declarados en desastre - Estado de carpetas",
   subtitulo: "Gobierno Autónomo Departamental de Santa Cruz - DGR",
-  corte: "11 / NOV / 2026",                       // fecha de corte de la información
+  corte: "19 / NOV / 2026",                       // fecha de corte de la información
   decreto: {
     numero: "Decreto Departamental N° 548/2026",
     fecha: "Promulgación el 28 / sep / 2026",
